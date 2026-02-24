@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	edgegriddns "github.com/akamai/AkamaiOPEN-edgegrid-golang/v11/pkg/dns"
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v11/pkg/edgegrid"
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v11/pkg/session"
+	edgegriddns "github.com/akamai/AkamaiOPEN-edgegrid-golang/v12/pkg/dns"
+	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v12/pkg/edgegrid"
+	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v12/pkg/session"
 	"github.com/go-acme/lego/v4/challenge"
 	"github.com/go-acme/lego/v4/challenge/dns01"
 	"github.com/go-acme/lego/v4/log"
